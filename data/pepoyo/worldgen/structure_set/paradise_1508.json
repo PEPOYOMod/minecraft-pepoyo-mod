@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "pepoyo:paradise_1508",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 200,
+    "separation": 50,
+    "salt": 1247161434
+  }
+}

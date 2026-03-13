@@ -1,0 +1,36 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "minecraft:fire"
+    },
+    "title": {
+      "translate": "advancements.fireban.title"
+    },
+    "description": {
+      "translate": "advancements.fireban.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "fireban_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "pepoyo:eye"
+            ],
+            "count": {
+              "min": 998,
+              "max": 999
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "spawners": {
+    "type": "pepoyo:shinde",
+    "weight": 13,
+    "minCount": 2,
+    "maxCount": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "cherry_grove",
+    "flower_forest"
+  ],
+  "spawners": {
+    "type": "pepoyo:shimiyasosu",
+    "weight": 20,
+    "minCount": 4,
+    "maxCount": 4
+  }
+}
