@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "pepoyo:block/shardsgreen"
+    },
+    "facing=east": {
+      "model": "pepoyo:block/shardsgreen",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "pepoyo:block/shardsgreen",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "pepoyo:block/shardsgreen",
+      "y": 270
+    }
+  }
+}

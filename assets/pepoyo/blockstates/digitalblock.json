@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "pepoyo:block/digitalblock"
+    },
+    "facing=east": {
+      "model": "pepoyo:block/digitalblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "pepoyo:block/digitalblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "pepoyo:block/digitalblock",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "pepoyo:block/digitalblock",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "pepoyo:block/digitalblock",
+      "x": 90
+    }
+  }
+}

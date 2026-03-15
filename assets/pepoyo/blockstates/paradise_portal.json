@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "pepoyo:block/paradise_portal_ew"
+    },
+    "axis=x": {
+      "model": "pepoyo:block/paradise_portal_ns"
+    }
+  }
+}
