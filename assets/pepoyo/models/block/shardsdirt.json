@@ -1,0 +1,9 @@
+{
+  "parent": "pepoyo:custom/shard_stone_dirt",
+  "textures": {
+    "all": "minecraft:block/dirt",
+    "particle": "minecraft:block/dirt",
+    "0": "minecraft:block/dirt"
+  },
+  "render_type": "solid"
+}

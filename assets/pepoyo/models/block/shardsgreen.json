@@ -1,0 +1,9 @@
+{
+  "parent": "pepoyo:custom/shard_grass",
+  "textures": {
+    "all": "pepoyo:block/shards_green",
+    "particle": "pepoyo:block/shards_green",
+    "0": "minecraft:block/moss_block"
+  },
+  "render_type": "solid"
+}

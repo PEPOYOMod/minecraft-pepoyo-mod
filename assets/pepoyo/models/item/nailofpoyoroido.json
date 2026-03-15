@@ -1,0 +1,7 @@
+{
+  "parent": "pepoyo:custom/thumbtack_of_poyoroid_o",
+  "textures": {
+    "0": "pepoyo:block/thumbtack_of_poyoroid_o",
+    "particle": "pepoyo:item/nail"
+  }
+}

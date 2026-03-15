@@ -1,0 +1,7 @@
+{
+  "parent": "pepoyo:custom/bowl",
+  "textures": {
+    "0": "pepoyo:block/empty_bowl",
+    "particle": "pepoyo:item/empty_bowl"
+  }
+}

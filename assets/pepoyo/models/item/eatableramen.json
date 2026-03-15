@@ -1,0 +1,7 @@
+{
+  "parent": "pepoyo:custom/eatable_ramen",
+  "textures": {
+    "0": "pepoyo:block/eatable_ramen",
+    "particle": "pepoyo:item/eatable_ramen"
+  }
+}

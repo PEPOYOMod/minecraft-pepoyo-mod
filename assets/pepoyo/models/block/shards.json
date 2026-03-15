@@ -1,0 +1,9 @@
+{
+  "parent": "pepoyo:custom/shard",
+  "textures": {
+    "all": "pepoyo:block/shards",
+    "particle": "pepoyo:block/shards",
+    "0": "pepoyo:block/shards"
+  },
+  "render_type": "solid"
+}

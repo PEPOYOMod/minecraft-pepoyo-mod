@@ -1,0 +1,9 @@
+{
+  "parent": "pepoyo:custom/digital_block",
+  "textures": {
+    "all": "pepoyo:block/digital_block",
+    "particle": "pepoyo:block/digital_block",
+    "0": "pepoyo:block/digital_block"
+  },
+  "render_type": "solid"
+}

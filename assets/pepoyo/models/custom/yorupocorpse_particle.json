@@ -1,0 +1,7 @@
+
+{
+  "parent": "pepoyo:displaysettings/yorupo_corpse_display",
+  "textures": {
+    "particle": "pepoyo:block/bhgdyhrdt"
+  }
+}

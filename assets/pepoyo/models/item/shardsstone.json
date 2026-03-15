@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "pepoyo:item/shard_stone"
+  },
+  "render_type": "translucent"
+}

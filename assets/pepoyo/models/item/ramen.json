@@ -1,0 +1,7 @@
+{
+  "parent": "pepoyo:custom/ramen_bowl",
+  "textures": {
+    "0": "pepoyo:block/ramen_bowl",
+    "particle": "pepoyo:item/yebu_noodles"
+  }
+}
