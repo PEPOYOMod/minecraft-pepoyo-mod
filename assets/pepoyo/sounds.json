@@ -1,0 +1,42 @@
+{
+  "sound.yande.death": {
+    "sounds": [
+      {
+        "name": "pepoyo:yande_death_song",
+        "stream": false
+      }
+    ]
+  },
+  "sound.yorupo.posonous_ramen": {
+    "sounds": [
+      {
+        "name": "pepoyo:pepoyo-menheramenjing_shen_bing_la_mian___0",
+        "stream": false
+      }
+    ]
+  },
+  "sound.cashier": {
+    "sounds": [
+      {
+        "name": "pepoyo:cashier",
+        "stream": false
+      }
+    ]
+  },
+  "sound.error": {
+    "sounds": [
+      {
+        "name": "pepoyo:error",
+        "stream": false
+      }
+    ]
+  },
+  "sound.yande_error": {
+    "sounds": [
+      {
+        "name": "pepoyo:yande_error",
+        "stream": false
+      }
+    ]
+  }
+}

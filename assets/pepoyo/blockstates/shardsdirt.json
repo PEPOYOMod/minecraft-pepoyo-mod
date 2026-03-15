@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "pepoyo:block/shardsdirt"
+    },
+    "facing=east": {
+      "model": "pepoyo:block/shardsdirt",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "pepoyo:block/shardsdirt",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "pepoyo:block/shardsdirt",
+      "y": 270
+    }
+  }
+}
